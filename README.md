@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @Luisbo85
-- 👀 I’m interested in Quantum computing, Python and Backend develepment 
+- 👀 I’m interested in Quantum computing, Python and Backend development 
 - 📫 How to reach me via email: luisjarillo578@gmail.com
 
 <!---
